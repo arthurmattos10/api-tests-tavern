@@ -2,6 +2,8 @@
 
 Projeto de automação de testes de API desenvolvido como desafio prático, cobrindo testes de contrato, testes assíncronos e boas práticas de versionamento.
 
+📚 **Este projeto foi desenvolvido como atividade prática da disciplina Automação de Testes de Software, cursada no 5º semestre da graduação na Faculdade Impacta.**
+
 ---
 
 ## 🚀 Tecnologias utilizadas
